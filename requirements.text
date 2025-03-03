@@ -1,0 +1,5 @@
+streamlit==1.25.0  # For building the web app
+tensorflow==2.13.0  # For loading and running the pre-trained model
+numpy==1.24.0  # For numerical operations
+pandas==1.5.3  # For handling prediction history and generating reports
+Pillow==9.5.0  # For image processing
